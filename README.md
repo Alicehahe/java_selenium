@@ -1,0 +1,2 @@
+# java_selenium
+用java做一个基于selenium框架的web自动化项目
